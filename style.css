@@ -1,0 +1,70 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+body{
+  text-align: center;
+  background-color: #001c41;
+  justify-content: center;
+
+}
+#botao{
+    background-color: black;
+    color: white;
+    border-radius: 30PX;
+    top: 900px;
+    left: 850px;
+    position: absolute;
+    font-size: 15px;
+    }
+#botao1{
+   border-radius: 30px;
+   position: absolute;
+   margin-right: 100px;
+   left: 1000px;
+   top: 900px;
+   font-size: 15px;
+
+}
+header{
+margin-top: 350px;
+margin-left: 100px;
+
+}
+
+
+    
+#login{
+    margin-bottom: 10px;
+   height: 40px;
+   width: 400px;
+   border-radius: 30px;
+   text-align: center;
+}
+form{
+    background-color: #2c00cc;
+    border-radius: 10px;
+    width: 500px;
+    padding: 40px;
+   margin: auto;
+    box-shadow:  0 0 20px;
+ 
+    
+}
+#password{
+    height: 40px;
+    width: 400px;
+    border-radius: 30px;
+    text-align: center;
+    
+}
+#meubotao{
+  position: absolute;
+ margin-top: -30px;
+ left: 938px;
+ border-radius: 30px;
+ height: 25px;
+ width: 100px;
+ background-color: rgb(0, 247, 255);
+   
+}
